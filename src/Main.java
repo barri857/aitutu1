@@ -12,7 +12,6 @@ public class Main {
 
         System.out.println(a + b);
         System.out.println(a * b);
-        System.out.println((a+b)+b);
         System.out.println(n);
         sc.close();
     }
