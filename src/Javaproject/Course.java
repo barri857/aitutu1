@@ -17,7 +17,7 @@ public class Course {
             students[index] = s;
             System.out.println("-> " + s.getName() + " студенті " + courseName + " курсына қосылды.");
         } else {
-            System.err.println("Қате ");
+            System.err.println("Қате q");
         }
     }
 
